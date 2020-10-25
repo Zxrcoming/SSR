@@ -38,9 +38,8 @@ bash ssr.sh
 #####备用地址
 
 ```terminal
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh
-chmod +x ssr.sh
-bash ssr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+
 ```
 上方命令执行完毕之后效果应该是这样的：
 
